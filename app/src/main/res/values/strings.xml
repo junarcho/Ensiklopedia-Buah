@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Buah Pedia</string>
+    <string name="fruits_name">Nama Buah</string>
+    <string name="detail">Detail</string>
+    <string name="title_activity_launcher">Launcher</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">Tentang Developer</string>
+    <string name="with_cardview">CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="todo">TODO</string>
+    <string name="bahasa_inggris">Bahasa Inggris</string>
+    <string name="english_name">English Name</string>
+    <string name="manfaat_buah">Manfaat</string>
+    <string name="angka">
+        1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.
+    </string>
+    <string name="kabuya">KABUYA</string>
+    <string name="full_name">Junarcho Ardilo Berutu</string>
+    <string name="email">ardilobrt@gmail.com</string>
+    <string name="cari_buah">Cari Buah</string>
+</resources>

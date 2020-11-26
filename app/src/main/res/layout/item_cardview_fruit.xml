@@ -20,7 +20,7 @@
             android:layout_width="150dp"
             android:layout_height="200dp"
             android:layout_marginBottom="4dp"
-            android:scaleType="centerCrop"
+            android:scaleType="center"
             tools:src="@color/colorAccent"
             android:contentDescription="@string/todo" />
         <TextView

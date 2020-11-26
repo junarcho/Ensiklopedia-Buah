@@ -3,10 +3,10 @@
     <string name="fruits_name">Nama Buah</string>
     <string name="detail">Detail</string>
     <string name="title_activity_launcher">Launcher</string>
-    <string name="list">List</string>
-    <string name="grid">Grid</string>
+    <string name="list">Tampilan List</string>
+    <string name="grid">Tampilan Grid</string>
+    <string name="with_cardview">Tampilan Card</string>
     <string name="about">Tentang Developer</string>
-    <string name="with_cardview">CardView</string>
     <string name="favorite">Favorite</string>
     <string name="share">Share</string>
     <string name="todo">TODO</string>
@@ -19,5 +19,6 @@
     <string name="kabuya">KABUYA</string>
     <string name="full_name">Junarcho Ardilo Berutu</string>
     <string name="email">ardilobrt@gmail.com</string>
-    <string name="cari_buah">Cari Buah</string>
+    <string name="cari_buah">Cari Buah...</string>
+    <string name="more" />
 </resources>

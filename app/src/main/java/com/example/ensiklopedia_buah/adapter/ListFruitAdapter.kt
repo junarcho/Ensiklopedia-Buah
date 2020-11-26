@@ -7,8 +7,8 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.ensiklopedia_buah.entity.Fruits
 import com.example.ensiklopedia_buah.R
+import com.example.ensiklopedia_buah.entity.Fruits
 
 class ListFruitAdapter(private val listFruit: ArrayList<Fruits>) : RecyclerView.Adapter<ListFruitAdapter.ListViewHolder>() {
 
@@ -32,7 +32,11 @@ class ListFruitAdapter(private val listFruit: ArrayList<Fruits>) : RecyclerView.
     }
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): ListViewHolder {
-        val view: View = LayoutInflater.from(viewGroup.context).inflate(R.layout.item_row_fruit, viewGroup, false)
+        val view: View = LayoutInflater.from(viewGroup.context).inflate(
+            R.layout.item_row_fruit,
+            viewGroup,
+            false
+        )
         return ListViewHolder(view)
     }
 

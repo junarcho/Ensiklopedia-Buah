@@ -7,6 +7,19 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/theme_icons</item>
+        <item name="android:windowBackground">@color/theme_background</item>
+        <item name="android:textColorPrimary">@color/theme_background</item>
+        <item name="android:actionMenuTextColor">@color/theme_background</item>
+        <item name="android:textColorSecondary">@color/theme_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
     <style name="SplashScreenStyle" parent="Theme.AppCompat.NoActionBar">
         <item name="android:windowBackground">@drawable/splash_brand_logo</item>
         <item name="android:windowTranslucentNavigation">true</item>
